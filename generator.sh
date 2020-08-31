@@ -8,7 +8,7 @@ echo ""
 echo "Charlie K, 2020. No copyright."
 echo ""
 
-# Asking questions on the header of the HTML
+# Asking questions about the header of the HTML
 echo "The HTML part"
 echo ""
 echo "Set title"
